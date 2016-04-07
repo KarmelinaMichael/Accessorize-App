@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\lina\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\lina\AndroidStudioProjects\Accessorize\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-a767725e16dea2e23a2aec5e430bc1a1a096e392.jar" />
+    </item>
+    <item
+        jar="C:\Users\lina\AndroidStudioProjects\Accessorize\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\lina\AndroidStudioProjects\Accessorize\app\build\intermediates\pre-dexed\debug\classes-604b675172c02fe6adafbd0e6e4c3ada79e826be.jar" />
+    </item>
+    <item
+        jar="C:\Users\lina\AndroidStudioProjects\Accessorize\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\lina\AndroidStudioProjects\Accessorize\app\build\intermediates\pre-dexed\debug\classes-6bf7dc1206986a21d76ed6ee8091e372691b7561.jar" />
+    </item>
+    <item
+        jar="C:\Users\lina\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\lina\AndroidStudioProjects\Accessorize\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-1c91c6d1fc7c9648b0a9ff82b8c60134bc472673.jar" />
+    </item>
+    <item
+        jar="C:\Users\lina\AndroidStudioProjects\Accessorize\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\lina\AndroidStudioProjects\Accessorize\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-aea71ae3aa7b4e096af00ef097120f8300ab1456.jar" />
+    </item>
+
+</items>

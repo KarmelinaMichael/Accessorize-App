@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Accessorize</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_category_list">categories</string>
+    <string name="title_category_detail">category Detail</string>
+    <string name="title_activity_categories">Categories</string>
+    <string name="title_activity_nature">Nature</string>
+    <string name="title_activity_image_adapter">ImageAdapter</string>
+    <string name="title_activity_image_view1">ImageView1</string>
+    <string name="title_activity_image_adapter1">ImageAdapter1</string>
+    <string name="title_activity_abstract">Abstract</string>
+    <string name="title_activity_animals">Animals</string>
+    <string name="title_activity_flowers">Flowers</string>
+    <string name="title_activity_love">Love</string>
+    <string name="title_activity_cartoons">Cartoons</string>
+    <string name="title_activity_sports">Sports</string>
+</resources>
